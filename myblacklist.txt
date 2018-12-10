@@ -1,5 +1,10 @@
-
-
+checkappexec.Microsoft.com
+t.checkappexec.Microsoft.com
+canonicalizer.ucsuri.TCS
+datahub.adalliance.io
+dmpstorage.adalliance.io
+dns.msftncsi.com
+optout.adalliance.io
 ___id___.c.mystat-in.net
 0.facebook.com
 0.r.bat.bing.com
