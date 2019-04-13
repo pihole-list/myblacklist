@@ -1,4 +1,4 @@
-checkappexec.Microsoft.com
+﻿checkappexec.Microsoft.com
 t.checkappexec.Microsoft.com
 canonicalizer.ucsuri.TCS
 datahub.adalliance.io
@@ -31589,6 +31589,7 @@ facebook.ch
 facebook.cm
 facebook.com.img335.tk
 facebook.de
+facebook.com
 facebook.eu
 facebook.eu-west-1.stinger-ad.bidr.io
 facebook.fr
@@ -76024,6 +76025,7 @@ www.fabrikverkauf-outlets.net
 www.fabryka-nagrod.com
 www.face2trade.com
 www.faceboock.com
+www.faceboock.de
 www.facebook.at
 www.facebook.be
 www.facebook.ch
