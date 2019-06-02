@@ -1,4 +1,4 @@
-﻿checkappexec.Microsoft.com
+checkappexec.Microsoft.com
 t.checkappexec.Microsoft.com
 canonicalizer.ucsuri.TCS
 datahub.adalliance.io
@@ -21122,7 +21122,6 @@ c.webengage.com
 c.webwise.com
 c.webwise.net
 c.webwise.org
-c.whatsapp.net
 c.za.msn.com
 c.zeroredirect.com
 c.zeroredirect1.com
@@ -21183,7 +21182,6 @@ c1.thecounter.com
 c1.thecounter.de
 c1.zxxds.net
 c10.smaato.net
-c10.whatsapp.net
 c10013.ic-live.com
 c10014.ic-live.com
 c10048.ic-live.com
@@ -21335,23 +21333,17 @@ c57.smaato.net
 c58.smaato.net
 c59.smaato.net
 c6.amazingcounters.com
-c6.edgesuite.net
-c6.edgesuite.net  #[RealMedia]
-c6.whatsapp.net
 c60.smaato.net
 c6530e.r.axf8.net
 c7.adforgeinc.com
 c7.amazingcounters.com
 c7.ic-live.com
-c7.whatsapp.net
 c7.zxxds.net
 c753738.r38.cf2.rackcdn.com
 c7e935.netlify.com
 c8.amazingcounters.com
-c8.whatsapp.net
 c9.amazingcounters.com
 c9.statcounter.com
-c9.whatsapp.net
 ca.2.cqcounter.com
 ca.5.p2l.info
 ca.abv.bg
